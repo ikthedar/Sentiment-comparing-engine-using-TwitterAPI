@@ -13,3 +13,4 @@ Pre Req:
 
 # my first program using an API
 
+# learned about how to get API keys and keep those keys secret
